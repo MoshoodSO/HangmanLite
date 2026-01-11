@@ -1,5 +1,8 @@
 ## 🎮🕴 Hangman Lite
 
+<img width="20%" align="right" alt="working" 
+  src="https://github.com/MoshoodSO/MoshoodSO/blob/main/img.png"/>
+
 A simple **Hangman game** built with **Python** and displayed via a **Gradio** web interface.
 
 > Hangman is a classic word-guessing game where one player thinks of a secret word, and the other(s) try to guess it by suggesting letters, with each incorrect guess adding a part to a stick-figure drawing on a gallows, leading to a "hanged" figure if the word isn't guessed in time.
