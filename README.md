@@ -1,6 +1,6 @@
 ## 🎮🕴 Hangman Lite
 
-<img width="20%" align="right" alt="hangman" 
+<img width="40%" align="right" alt="hangman" 
   src="https://github.com/MoshoodSO/HangmanLite/blob/main/graphics/hangman-icon.jpg"/>
 
 A simple **Hangman game** built with **Python** and displayed via a **Gradio** web interface.
