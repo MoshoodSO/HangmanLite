@@ -18,6 +18,8 @@ This project provides a fun interactive word-guessing game where you try to gues
 - Lives / incorrect guess tracking
 - Simple, beginner-friendly Python codebas
 
+---
+
 ## 🧠 How It Works
 
 1. A random word is selected from a list.
