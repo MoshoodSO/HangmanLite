@@ -18,3 +18,12 @@ This project provides a fun interactive word-guessing game where you try to gues
 - Lives / incorrect guess tracking
 - Simple, beginner-friendly Python codebas
 
+## 🧠 How It Works
+
+1. A random word is selected from a list.
+2. The player guesses one letter at a time.
+3. Correct guesses reveal letters in the word.
+4. Incorrect guesses reduce the number of remaining lives.
+5. The game ends when the word is fully guessed or all lives are lost.
+
+---
