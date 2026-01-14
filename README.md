@@ -37,6 +37,5 @@ This project provides a fun interactive word-guessing game where you try to gues
 HangmanLite/
 ├── HangmanLite.py        # Main Python script (game + Gradio app)
 ├── README.md             # Project documentation
-├── words.txt             # (optional) Word list file
 ├── requirements.txt      # Python dependencies
-└── assets/               # (optional) Images or static files
+└── graphics/             # Images or static files
