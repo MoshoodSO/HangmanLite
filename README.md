@@ -30,3 +30,13 @@ This project provides a fun interactive word-guessing game where you try to gues
 5. The game ends when the word is fully guessed or all lives are lost.
 
 ---
+
+## 📦 Project Structure
+
+```text
+HangmanLite/
+├── HangmanLite.py        # Main Python script (game + Gradio app)
+├── README.md             # Project documentation
+├── words.txt             # (optional) Word list file
+├── requirements.txt      # Python dependencies
+└── assets/               # (optional) Images or static files
