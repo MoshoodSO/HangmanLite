@@ -39,3 +39,4 @@ HangmanLite/
 ├── README.md             # Project documentation
 ├── requirements.txt      # Python dependencies
 └── graphics/             # Images or static files
+         └──hangman-icon.jpg
