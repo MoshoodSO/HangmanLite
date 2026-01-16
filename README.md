@@ -46,7 +46,5 @@ HangmanLite/
 ### 🔧 Prerequisites
 
 - Python 3.8 or higher
-
-pip installed
-
-Internet connection for Gradio frontend (optional)
+- pip installed
+- Internet connection for Gradio frontend (optional)
