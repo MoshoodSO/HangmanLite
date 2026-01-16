@@ -40,3 +40,13 @@ HangmanLite/
 ├── HangmanLite.py        # Main Python script (game + Gradio app)
 ├── README.md             # Project documentation
 └── requirements.txt      # Python dependencies
+```
+
+## 🚀 Getting Started
+### 🔧 Prerequisites
+
+- Python 3.8 or higher
+
+pip installed
+
+Internet connection for Gradio frontend (optional)
