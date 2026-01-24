@@ -50,7 +50,7 @@ HangmanLite/
 - Internet connection for Gradio frontend (optional)
 
 
-📫 Contact
+## 📫 Contact
 
 For questions or suggestions, please reach out via GitHub.
 
