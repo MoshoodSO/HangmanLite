@@ -48,3 +48,10 @@ HangmanLite/
 - Python 3.8 or higher
 - pip installed
 - Internet connection for Gradio frontend (optional)
+
+
+📫 Contact
+
+For questions or suggestions, please reach out via GitHub.
+
+Enjoy playing HangmanLite! 🎮
