@@ -13,6 +13,7 @@ This project provides a fun interactive word-guessing game where you try to gues
 ---
 ## Demo
 
+![Demo](https://github.com/MoshoodSO/Financial-Inclusion-among-Young-People/blob/main/financial_inclusion_demo1.gif)
 
 ---
 ## 🕹️ Features
