@@ -13,7 +13,7 @@ This project provides a fun interactive word-guessing game where you try to gues
 ---
 ## Demo
 
-![Demo](https://github.com/MoshoodSO/HangmanLite/blob/main/graphics/hangman_demo.gif)
+![Demo](https://github.com/MoshoodSO/HangmanLite/blob/main/graphics/hangmanDemo.gif)
 
 ---
 ## 🕹️ Features
