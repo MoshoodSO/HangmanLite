@@ -1,4 +1,4 @@
-<img width="15%" align="right" alt="hangman" 
+<img width="10%" align="right" alt="hangman" 
   src="https://github.com/MoshoodSO/HangmanLite/blob/main/graphics/hangman-icon.jpg"/>
   
 ## 🎮🕴 Hangman Lite
