@@ -66,10 +66,11 @@ HangmanLite/
 
 ## 📫 Contact
 
-For questions or suggestions, please reach out.
+For questions or suggestions, kindly reach out.
 
 - Author: Shoyombo Moshood Olanrewaju
 - Connect: [Shoyombo Moshood](https://www.linkedin.com/in/shoyombo-moshood-582003126)
 - Portfolio: [Shoyombo Moshood](https://moshoodso.vercel.app/)
+
 
 Enjoy playing HangmanLite! 🎮
